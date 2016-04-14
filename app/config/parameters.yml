@@ -1,0 +1,27 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_driver: pdo_mysql
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: addressbook
+    database_user: root
+    database_password: root
+    mailer_transport: smtp
+    mailer_host: smtp.orange.fr
+    mailer_user: null
+    mailer_password: null
+    delivery_address: null
+    secret: ThisTokenIsNotSoSecretChangeIt
+    node_bin_path: /usr/local/bin/node
+    node_lib_paths:
+        - /usr/local/lib/node
+        - /usr/local/lib/node_modules
+    uglify_js_path: /usr/local/bin/uglifyjs
+    uglify_css_path: /usr/local/bin/uglifycss
+    ruby_path: /usr/bin/ruby
+    sass_path: /usr/bin/sass
+    request_context.base_path: ''
+    router.request_context.base_url: ''
+    contact_email: null
+    prod_email: asnaabderahman@gmail.com
+    basePath: 'http://www.addressbook.deve'

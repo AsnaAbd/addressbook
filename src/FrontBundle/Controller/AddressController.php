@@ -34,7 +34,7 @@ class AddressController extends Controller
             'user' => $user_id
         ));
 
-        return $this->render('FrontBundle:Address:index.html.twig', array(
+       return $this->render('FrontBundle:Address:index.html.twig', array(
             'emails' => $emails,
             'user' => $user
         ));
